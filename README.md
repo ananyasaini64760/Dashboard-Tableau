@@ -1,6 +1,6 @@
 # 📊 HR Analytics Dashboard
 
-This project is an **interactive HR Analytics Dashboard** built using **Power BI**. It provides insights into employee attrition, demographics, job satisfaction, and department-wise workforce distribution.  
+This project is an **interactive HR Analytics Dashboard** built using **Tableau**. It provides insights into employee attrition, demographics, job satisfaction, and department-wise workforce distribution.  
 The dashboard helps HR teams and decision-makers identify trends, analyze attrition causes, and make data-driven workforce strategies.  
 
 ---
@@ -18,9 +18,8 @@ The dashboard helps HR teams and decision-makers identify trends, analyze attrit
 
 ## 🛠️ Tools & Technologies
 
-- Power BI – Dashboard creation & visualization  
-- Excel / CSV Dataset – Data source (employee attrition dataset)  
-- Power Query – Data cleaning & transformation  
+- Tableau – Dashboard creation & visualization  
+- Excel / CSV Dataset – Data source (employee attrition dataset)   
 
 ---
 
